@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+
+#mysteryPerson {
+  width: 550px;
+  height: auto;
+  margin-top: 10px;
+}
+
+#transformButton {
+  background-image: linear-gradient(to right, navy, blue);
+  border-radius: 15px;
+  padding: 10px 10px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.user-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
